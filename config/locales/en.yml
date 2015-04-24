@@ -21,3 +21,5 @@
 
 en:
   hello: "Hello world"
+
+  out_of_stock: "Class is currently full."
